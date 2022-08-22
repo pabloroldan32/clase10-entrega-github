@@ -413,6 +413,14 @@ p{
     font-size: large;
 
 } 
+ 
+
+.text-infojachal h3:hover {
+	transform: skew(20deg);
+	color: rgba(0, 0, 255, .4);
+	cursor: pointer;
+} 
+
 /*IMG-infojachal*/
 .img-infojachal{
 	width: 70%;
@@ -442,8 +450,14 @@ p{
     margin: 10px;
     font-size: large;
   
-
 }
+
+.text-infojachal1 h3:hover {
+	transform: skew(20deg);
+	color: rgba(0, 0, 255, .4);
+	cursor: pointer;
+} 
+
 
  
 
